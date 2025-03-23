@@ -1,0 +1,23 @@
+{
+  "name": "github-action-book",
+  "version": "1.0.0",
+  "description": "https://zenn.dev/farstep/books/learn-github-actions の練習",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toroikamelon/github-action-book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toroikamelon/github-action-book/issues"
+  },
+  "homepage": "https://github.com/toroikamelon/github-action-book#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
